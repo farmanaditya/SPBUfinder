@@ -27,7 +27,7 @@ Data SPBU digunakan dari dua sumber utama:
 
 ### **1. Maps Screen**
 
-![maps](https://drive.google.com/file/d/15BjBnBgd6f5V2CL4ds5HAmic-l-zEES6/view?usp=sharing)
+![maps](https://drive.google.com/uc?export=view&id=15BjBnBgd6f5V2CL4ds5HAmic-l-zEES6)
 
   - Menampilkan peta interaktif menggunakan **Leaflet.js**.
   - Menampilkan semua SPBU dalam bentuk **marker clustering**.
@@ -36,10 +36,11 @@ Data SPBU digunakan dari dua sumber utama:
 
 ### **2. Tambah SPBU Screen Screen**
 
-![list](https://drive.google.com/file/d/1tB4gzLNKLKiGHo-xUSugmwe0svUmu9Us/view?usp=sharing)
+![List](https://drive.google.com/uc?export=view&id=1tB4gzLNKLKiGHo-xUSugmwe0svUmu9Us)
 
-![form](https://drive.google.com/file/d/1PrsRZyJNIHMMHRxJr-5epxn6V-5m7aFY/view?usp=sharing)
+
+![form](https://drive.google.com/uc?export=view&id=1PrsRZyJNIHMMHRxJr-5epxn6V-5m7aFY)
 
 ### **3. Profile Screen**
 
-![profile](https://drive.google.com/file/d/15BjBnBgd6f5V2CL4ds5HAmic-l-zEES6/view?usp=sharing)
+![Profile](https://drive.google.com/uc?export=view&id=1QJq6H1u1TlEPBLhiF_n-YxgvTHcUk3XB)
