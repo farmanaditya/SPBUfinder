@@ -72,7 +72,7 @@ const DataSPBU = () => {
     // Define base layers
     var openStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
-      attribution: '© OpenStreetMap contributors'
+      attribution: 'farmanaditya@2024'
     });
 
     var esriSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
@@ -81,7 +81,7 @@ const DataSPBU = () => {
 
     var openTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
       maxZoom: 17,
-      attribution: '© OpenTopoMap contributors'
+      attribution: 'farmanaditya@2024'
     });
 
     // Add default layer
