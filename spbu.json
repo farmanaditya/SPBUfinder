@@ -13,7 +13,7 @@
     "Latitude": -6.1669097,
     "Longitude": 106.813773,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU COCO 41.551.01",
@@ -45,7 +45,7 @@
     "Latitude": -7.755865846745141,
     "Longitude": 110.38255600998606,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.551.11 Giwangan",
@@ -61,7 +61,7 @@
     "Latitude": -6.1742346,
     "Longitude": 106.8548123,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 12.00 am"
+    "Jam Tutup": "Closes 12.00 am"
   },
   {
     "Nama SPBU": "Pertamina Gas Station 44.552.16 Munggur",
@@ -69,7 +69,7 @@
     "Latitude": -7.7974565,
     "Longitude": 110.370697,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Tutup": "Closes 11.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station Pakualaman",
@@ -92,8 +92,8 @@
     "Alamat": "59G8+5XW, Jl. Jogokaryan · (021) 1500000",
     "Latitude": -7.8240229,
     "Longitude": 110.363257,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Buka": "05:30",
+    "Jam Tutup": "23:00"
   },
 
   {
@@ -102,7 +102,7 @@
     "Latitude": -7.8240875,
     "Longitude": 110.3779844,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
+    "Jam Tutup": "Closes 9.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina Gejayan 44.555.03",
@@ -118,7 +118,7 @@
     "Latitude": -7.746642566619779,
     "Longitude": 110.35396726580386,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.551.01 Dukuh",
@@ -126,14 +126,14 @@
     "Latitude": -7.8189875,
     "Longitude": 110.3559219,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.30 pm"
+    "Jam Tutup": "Closes 10.30 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.551.04 Bugisan",
     "Alamat": "Jl. Sugeng Jeroni · (021) 1500000",
     "Latitude": -7.8128293,
     "Longitude": 110.3545559,
-    "Jam Buka": "⋅ Closes 10.00 pm",
+    "Jam Buka": "Closes 10.00 pm",
     "Jam Tutup": "Open"
   },
   {
@@ -142,7 +142,7 @@
     "Latitude": -7.7981244,
     "Longitude": 110.3927406,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU KASAM 4455117",
@@ -158,13 +158,13 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Gas Station 44.552.13 Caturtunggal",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7737136363719195,
-    "Longitude": 110.41022800627654,
+    "Alamat": "Jl. Babarsari, Kledokan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+    "Latitude": -7.773777417794188,
+    "Longitude": 110.41037820998633,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
   },
@@ -182,7 +182,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.551.02 Ketandan",
@@ -198,7 +198,7 @@
     "Latitude": -7.7599375,
     "Longitude": 110.3465909,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Tutup": "Closes 11.00 pm"
   },
   {
     "Nama SPBU": "Pom bensin",
@@ -206,21 +206,13 @@
     "Latitude": 51.2095125,
     "Longitude": 4.3801094,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.53 pm"
-  },
-  {
-    "Nama SPBU": "Mushola SPBU Yogyakarta",
-    "Alamat": "SPBU 44.551.15, Jl. Sultan Agung No.66",
-    "Latitude": -7.0087705,
-    "Longitude": 110.4161309,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
+    "Jam Tutup": "Closes 10.53 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.551.18 Sewon",
-    "Alamat": "Bantul Regency, Special Region of Yogyakarta",
-    "Latitude": -7.9190169,
-    "Longitude": 110.3785438,
+    "Alamat": "Panggungharjo, Bantul Regency, Special Region of Yogyakarta",
+    "Latitude": -7.844110863709471,
+    "Longitude": 110.36102883082614,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
   },
@@ -246,7 +238,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
+    "Jam Tutup": "Closes 9.00 pm"
   },
   {
     "Nama SPBU": "Godean Pertamina Gas Station",
@@ -254,7 +246,7 @@
     "Latitude": -7.768716481823322,
     "Longitude": -7.768716481823322,
     "Jam Buka": "6.00am",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Ambarketawang Pertamina 44.552.07 Gas Station",
@@ -270,7 +262,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
+    "Jam Tutup": "Closes 9.00 pm"
   },
   {
     "Nama SPBU": "PERTAMINA",
@@ -294,7 +286,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.557.11 Pucung",
@@ -310,7 +302,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Tutup": "Closes 11.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina Wedomartani 44.555.20",
@@ -318,7 +310,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.551.14 Tamantirto",
@@ -334,7 +326,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.30 pm"
+    "Jam Tutup": "Closes 9.30 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station",
@@ -350,7 +342,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
+    "Jam Tutup": "Closes 9.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina Kalasan",
@@ -366,7 +358,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
+    "Jam Tutup": "Closes 9.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Gas Station 44.555.35 UII",
@@ -385,20 +377,12 @@
     "Jam Tutup": ""
   },
   {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Jl. Kolonel Sugiyono No.98",
-    "Latitude": -7.8158364,
-    "Longitude": 110.3737961,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "SPBU Mini IST AKPRIND",
     "Alamat": "Jl. Bimokunthing No.67",
     "Latitude": -7.7874231,
     "Longitude": 110.3884999,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
+    "Jam Tutup": "Closes 9.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertashop by Pertamina",
@@ -414,7 +398,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station",
@@ -422,7 +406,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Tutup": "Closes 11.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.555.14 Kalitirto",
@@ -446,7 +430,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Tutup": "Closes 11.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.555.16 Balecatur",
@@ -470,7 +454,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.557.16 Pleret",
@@ -478,7 +462,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
+    "Jam Tutup": "Closes 11.00 pm"
   },
   {
     "Nama SPBU": "Pertamina SPBU Dukuh",
@@ -526,7 +510,7 @@
     "Latitude": -7.8156136,
     "Longitude": 110.3742449,
     "Jam Buka": "Closed",
-    "Jam Tutup": "⋅ Opens 9.00 am Sat"
+    "Jam Tutup": "Opens 9.00 am Sat"
   },
   {
     "Nama SPBU": "Spbu Trihanggo,",
@@ -550,7 +534,7 @@
     "Latitude": -7.8348919,
     "Longitude": 110.3638039,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina Kadisoka 44.555.33",
@@ -566,7 +550,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU 44.557.04",
@@ -574,7 +558,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 12.00 am"
+    "Jam Tutup": "Closes 12.00 am"
   },
   {
     "Nama SPBU": "SPBU \"KASAM\" Babarsari",
@@ -582,7 +566,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 12.30 am"
+    "Jam Tutup": "Closes 12.30 am"
   },
   {
     "Nama SPBU": "SPBU Pertamina Pertashop Margoagung 4P.55505",
@@ -590,7 +574,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Closes soon",
-    "Jam Tutup": "⋅ 8.00 pm"
+    "Jam Tutup": "8.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pakembinangun Pertamina 44.555.38",
@@ -598,7 +582,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.555.12 Kembang Arum",
@@ -606,7 +590,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.557.14 UAD",
@@ -630,7 +614,7 @@
     "Latitude": -7.9190169,
     "Longitude": 110.3785438,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Balong Pertamina 44.555.31",
@@ -661,7 +645,7 @@
     "Alamat": "Sleman Regency, Special Region of Yogyakarta",
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
-    "Jam Buka": "⋅ Closes 10.00 pm",
+    "Jam Buka": "Closes 10.00 pm",
     "Jam Tutup": "Open"
   },
   {
@@ -670,7 +654,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 12.00 am"
+    "Jam Tutup": "Closes 12.00 am"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station",
@@ -678,7 +662,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "Pertamina SPBU 4455510 Sidorejo",
@@ -686,7 +670,7 @@
     "Latitude": -7.7325213,
     "Longitude": 110.402376,
     "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
+    "Jam Tutup": "Closes 10.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina 44.456.07 Sukoreno",
@@ -702,7 +686,7 @@
     "Latitude": -7.7833397,
     "Longitude": 110.3857496,
     "Jam Buka": "Closed",
-    "Jam Tutup": "⋅ Opens 8.00 am Mon"
+    "Jam Tutup": "Opens 8.00 am Mon"
   },
   {
     "Nama SPBU": "SPBU Patuk Pertamina 44.558.15",
@@ -710,7 +694,7 @@
     "Latitude": -7.8495234260462325,
     "Longitude": 110.48391653696915,
     "Jam Buka": "04.00 am",
-    "Jam Tutup": "⋅ Closes 12.00 am"
+    "Jam Tutup": "Closes 12.00 am"
   }, 
   {
     "Nama SPBU": "SPBU Pertamina 44.556.12 Dekso",
@@ -718,7 +702,7 @@
     "Latitude": -7.714979550548325,
     "Longitude": 110.22649965838374,
     "Jam Buka": "6.00 am",
-    "Jam Tutup": "⋅ Closes 12.00 am"
+    "Jam Tutup": "Closes 12.00 am"
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.556.04 Ngramang",
