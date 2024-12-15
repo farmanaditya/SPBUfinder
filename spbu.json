@@ -1,13 +1,5 @@
 [
   {
-    "Nama SPBU": "SPBU Pertamina",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 584470",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "⋅ Closes 10.00 pm",
-    "Jam Tutup": "Open"
-  },
-  {
     "Nama SPBU": "SPBU Pertamina 44.552.06 Terban",
     "Alamat": "Jl. C. Simanjuntak No.17 · (021) 1500000",
     "Latitude": -7.7821516,
@@ -50,8 +42,8 @@
   {
     "Nama SPBU": "SPBU Pertamina Kentungan 44.55209",
     "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
+    "Latitude": -7.755865846745141,
+    "Longitude": 110.38255600998606,
     "Jam Buka": "Open",
     "Jam Tutup": "⋅ Closes 10.00 pm"
   },
@@ -88,14 +80,6 @@
     "Jam Tutup": ""
   },
   {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "SPBU Pertamina 44.551.09 Semaki",
     "Alamat": "59XP+78R, Jl. Kusumanegara · (0274) 588972",
     "Latitude": -7.8022654,
@@ -111,14 +95,7 @@
     "Jam Buka": "Open",
     "Jam Tutup": "⋅ Closes 11.00 pm"
   },
-  {
-    "Nama SPBU": "SPBU Pertamina 44.552.10",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 488518",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
+
   {
     "Nama SPBU": "Pertamina Petrol Station",
     "Alamat": "59GH+959, Jl. Lowanu · (0274) 385442",
@@ -128,26 +105,18 @@
     "Jam Tutup": "⋅ Closes 9.00 pm"
   },
   {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "SPBU Pertamina Gejayan 44.555.03",
     "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
+    "Latitude": -7.759693341623768,
+    "Longitude": 110.39475123696756,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
   },
   {
     "Nama SPBU": "SPBU Pertamina Jombor",
     "Alamat": "Sleman Regency, Special Region of Yogyakarta · (021) 1500000",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
+    "Latitude": -7.746642566619779,
+    "Longitude": 110.35396726580386,
     "Jam Buka": "Open",
     "Jam Tutup": "⋅ Closes 10.00 pm"
   },
@@ -192,26 +161,10 @@
     "Jam Tutup": "⋅ Closes 10.00 pm"
   },
   {
-    "Nama SPBU": "SPBU Pertamina Banyuraden",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (021) 1500000",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "Pertamina Gas Station 44.552.13 Caturtunggal",
     "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "SPBU-YOGYAKARTA ADISUCIPTO",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
+    "Latitude": -7.7737136363719195,
+    "Longitude": 110.41022800627654,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
   },
@@ -264,14 +217,6 @@
     "Jam Tutup": ""
   },
   {
-    "Nama SPBU": "SPBU Pertamina 44.555.05 Prujakan",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "Pertamina Petrol Station 44.551.18 Sewon",
     "Alamat": "Bantul Regency, Special Region of Yogyakarta",
     "Latitude": -7.9190169,
@@ -282,8 +227,8 @@
   {
     "Nama SPBU": "Pertamina Gas Station Mlati 44.555.19",
     "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
+    "Latitude": -7.738623200948694,
+    "Longitude": 110.36257510813084,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
   },
@@ -296,30 +241,6 @@
     "Jam Tutup": ""
   },
   {
-    "Nama SPBU": "SPBU Pertamina 44.552.04 Adisucipto",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 484795",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Kantor My Pertamina SPBU Godean",
-    "Alamat": "6992+GRC Pertamina SPBU 4455211, Jl. Ngapak - Kentheng",
-    "Latitude": -7.7812209,
-    "Longitude": 110.352005,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PT. Pertamina (Branch Office)",
-    "Alamat": "Jl. P. Mangkubumi No.20 · (0274) 565720",
-    "Latitude": -7.7866385,
-    "Longitude": 110.3667676,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "Pertamina Petrol Station",
     "Alamat": "Bantul Regency, Special Region of Yogyakarta",
     "Latitude": -7.9190169,
@@ -328,19 +249,11 @@
     "Jam Tutup": "⋅ Closes 9.00 pm"
   },
   {
-    "Nama SPBU": "SPBU Pertamina",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
     "Nama SPBU": "Godean Pertamina Gas Station",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (021) 1500000",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
+    "Alamat": "Sidomoyo, Sleman Regency, Special Region of Yogyakarta · (021) 1500000",
+    "Latitude": -7.768716481823322,
+    "Longitude": -7.768716481823322,
+    "Jam Buka": "6.00am",
     "Jam Tutup": "⋅ Closes 10.00 pm"
   },
   {
@@ -382,14 +295,6 @@
     "Longitude": 110.402376,
     "Jam Buka": "Open",
     "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "Pertamina Gas Station 44.552.17",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.557.11 Pucung",
@@ -450,18 +355,10 @@
   {
     "Nama SPBU": "SPBU Pertamina Kalasan",
     "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 496130",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
+    "Latitude": -7.760476719194302,
+    "Longitude": 110.47658573780487,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Pertamina Gas Station",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 882989",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 11.00 pm"
   },
   {
     "Nama SPBU": "SPBU Pertamina Bibis Raya",
@@ -720,14 +617,6 @@
     "Jam Tutup": ""
   },
   {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "SPBU Pertamina 44.574.16 Kemudo",
     "Alamat": "Klaten Regency, Central Java · (021) 1500000",
     "Latitude": -7.657893,
@@ -754,24 +643,8 @@
   {
     "Nama SPBU": "Pertamina Petrol Station 44.556.01 Sentolo",
     "Alamat": "Kulon Progo Regency, Special Region of Yogyakarta · (021) 1500000",
-    "Latitude": -7.8266798,
-    "Longitude": 110.1640846,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "I LOVE NITROGEN BUGISAN",
-    "Alamat": "59Q2+3H2, Jl. Sugeng Jeroni · 0815-6511-313",
-    "Latitude": -7.8121226,
-    "Longitude": 110.3496474,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "Pertamina Petrol Station",
-    "Alamat": "Gunung Kidul Regency, Special Region of Yogyakarta",
-    "Latitude": -8.0305091,
-    "Longitude": 110.6168921,
+    "Latitude": -7.82571788263318,
+    "Longitude": 110.22595810998725,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
   },
@@ -816,27 +689,11 @@
     "Jam Tutup": "⋅ Closes 10.00 pm"
   },
   {
-    "Nama SPBU": "Pertamina Enduro Express",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "SPBU Pertamina 44.456.07 Sukoreno",
-    "Alamat": "Kulon Progo Regency, Special Region of Yogyakarta · 0857-2648-8938",
-    "Latitude": -7.8266798,
-    "Longitude": 110.1640846,
+    "Alamat": "Jl. Yogyakarta - Wates No.km 22, Kalimenur, Sukoreno, Sentolo, Kulon Progo Regency, Special Region of Yogyakarta 55664",
+    "Latitude": -7.871514409548679,
+    "Longitude": 110.20806450813319 ,
     "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open now",
     "Jam Tutup": ""
   },
   {
@@ -848,140 +705,20 @@
     "Jam Tutup": "⋅ Opens 8.00 am Mon"
   },
   {
-    "Nama SPBU": "SPBU Cebongan",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · 0878-3812-2721",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
     "Nama SPBU": "SPBU Patuk Pertamina 44.558.15",
-    "Alamat": "Gunung Kidul Regency, Special Region of Yogyakarta",
-    "Latitude": -8.0305091,
-    "Longitude": 110.6168921,
-    "Jam Buka": "Open",
+    "Alamat": "Patuk, Gunung Kidul Regency, Special Region of Yogyakarta 55862",
+    "Latitude": -7.8495234260462325,
+    "Longitude": 110.48391653696915,
+    "Jam Buka": "04.00 am",
     "Jam Tutup": "⋅ Closes 12.00 am"
-  },
-  {
-    "Nama SPBU": "Pengisian Nitrogen SPBU",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open now",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Pertamina DPPU Adisucipto",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 514108",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Yogyakarta City, Special Region of Yogyakarta",
-    "Latitude": -7.7974565,
-    "Longitude": 110.370697,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "SPBU Berbah 44.555.34",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · (0274) 2853775",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "PERTAMINA SPBU PERTASHOP SUMBERSARI MOYUDAN SLEMAN 4P.55502",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · 0857-4355-0503",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
-  },
-  {
-    "Nama SPBU": "SPBU GODEAN",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "Pertamina",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
+  }, 
   {
     "Nama SPBU": "SPBU Pertamina 44.556.12 Dekso",
-    "Alamat": "Kulon Progo Regency, Special Region of Yogyakarta",
-    "Latitude": -7.8266798,
-    "Longitude": 110.1640846,
-    "Jam Buka": "Open",
+    "Alamat": "Sayangan, Banjararum, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55672",
+    "Latitude": -7.714979550548325,
+    "Longitude": 110.22649965838374,
+    "Jam Buka": "6.00 am",
     "Jam Tutup": "⋅ Closes 12.00 am"
-  },
-  {
-    "Nama SPBU": "POM BENSIN TLOGOADI",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
-  },
-  {
-    "Nama SPBU": "SPBU 44.555.26 Seyegan",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "⋅ Closes 9.00 pm",
-    "Jam Tutup": "Open"
-  },
-  {
-    "Nama SPBU": "SPBU Jl Kaliurang",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open now",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "SPBU Pertamina Pertashop Banyurejo 4P.55521",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · 0813-1006-6690",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Closes soon",
-    "Jam Tutup": "⋅ 8.00 pm"
-  },
-  {
-    "Nama SPBU": "Jonggrangan Pertamina Petrol Station",
-    "Alamat": "Klaten Regency, Central Java · (0272) 322100",
-    "Latitude": -7.657893,
-    "Longitude": 110.6645683,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
   },
   {
     "Nama SPBU": "Pertamina Petrol Station 44.556.04 Ngramang",
@@ -998,133 +735,5 @@
     "Longitude": 110.1640846,
     "Jam Buka": "Open 24 hours",
     "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Pertashop Condongcatur",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 9.00 pm"
-  },
-  {
-    "Nama SPBU": "SPBU Mangkuluhur",
-    "Alamat": "Bantul Regency, Special Region of Yogyakarta",
-    "Latitude": -7.9190169,
-    "Longitude": 110.3785438,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "Pom Nitrogen",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Pertamina",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "SPBU Pertamina 44.574.01 Pandan Simping",
-    "Alamat": "Klaten Regency, Central Java · 0899-7517-109",
-    "Latitude": -7.657893,
-    "Longitude": 110.6645683,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Pertamina Gas Station 4457414",
-    "Alamat": "Klaten Regency, Central Java · (0272) 332331",
-    "Latitude": -7.657893,
-    "Longitude": 110.6645683,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "SPBU 44.555.25",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open",
-    "Jam Tutup": "⋅ Closes 10.00 pm"
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "SPBU RAFANO PUTRA JAYA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "Open now",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "POM BENSIN PERTASHOP SUMBERHARJO",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta · 0895-4029-53434",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "⋅ Closes 9.00 pm",
-    "Jam Tutup": "Open"
-  },
-  {
-    "Nama SPBU": "Pertamina",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "PERTAMINA",
-    "Alamat": "Sleman Regency, Special Region of Yogyakarta",
-    "Latitude": -7.7325213,
-    "Longitude": 110.402376,
-    "Jam Buka": "",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Pertamina Petrol Station 44.556.06 Sogan",
-    "Alamat": "Kulon Progo Regency, Special Region of Yogyakarta · (0274) 775300",
-    "Latitude": -7.8266798,
-    "Longitude": 110.1640846,
-    "Jam Buka": "Open 24 hours",
-    "Jam Tutup": ""
-  },
-  {
-    "Nama SPBU": "Terminal BBM Rewulu",
-    "Alamat": "Bantul Regency, Special Region of Yogyakarta · (0274) 798196",
-    "Latitude": -7.9190169,
-    "Longitude": 110.3785438,
-    "Jam Buka": "Closed",
-    "Jam Tutup": "⋅ Opens 8.00 am Mon"
-  }
+  }        
 ]
